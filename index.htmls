@@ -1,0 +1,4158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freelancer Hira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77d5d4 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        .about, .services, .contact {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            text-align: center;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #77d5d4;
+            margin-bottom: 5px;
+            padding: 10px;
+            border: #ccc 1px solid;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .socials {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Freelancer Hira</h1>
+        </div>
+    </header>
+    <section class="about container">
+        <h2>About Me</h2>
+        <p>Hi, I'm Hira from UP. Currently studying in a secondary school.</p>
+    </section>
+    <section class="services container">
+        <h2>Services</h2>
+        <ul>
+            <li>Online tutoring @300Rs per subject starting from class 1st to 5th.</li>
+            <li>Editing - Picture @40Rs</li>
+            <li>Editing - Video @80Rs</li>
+        </ul>
+    </section>
+    <section class="contact container">
+        <h2>Contact</h2>
+        <div class="contact-info">
+            <p>If you're interested in any of the services then contact:</p>
+            <p>WhatsApp: 9990726910</p>
+            <p>Email: <a href="mailto:hiraiftikhar910@gmail.com">hiraiftikhar910@gmail.com</a></p>
+        </div>
+        <div class="socials">
+            <p>Follow us:</p>
+            <a href="https://www.instagram.com/hirah_ahmed" target="_blank">Instagram @hirah_ahmed</a>
+        </div>
+    </section>
+</body>
+</html>
